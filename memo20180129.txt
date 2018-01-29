@@ -1,0 +1,44 @@
+Jan 29 - Minutes
+
+Memo Data: 2018.01.29
+Members: Lijia, Bo, Jack, Nick, Client.
+Client Communication: clesko@oxy.edu
+
+Memo Naming Rules:
+memo + date
+e.g: memo on Jan 29. 2018. 
+format: memo20180129
+
+- Goals:
+Search across different terms and categories, building a search engine not only for individual notes and combined notations. 
+
+- Major Tasks:
+1. Build a search algorithm.
+2. Build a web based UI. 
+
+- What kind of things in search?
+tempos, expressive terms, dynamic marking, etc.
+Starting with individual notations, then combinations of notes. 
+
+- Search filters and measures?
+Actual parameters. Able to compare different aspects of or across composers.   
+
+- What are the inputs?
+Starts with MEI file. 
+
+- What database are we using? How big?
+Not sure. Chopin Institute? For now only using Chopin music MEI File. 
+
+- Return results?
+Return the location of the exact matches from the input.
+
+- User interface:
+1. text input and text output
+2. MEI graphic input and text output
+3. MEI graphic input and MEI graphic output
+
+- Client object:
+Contact the Chopin Institute regarding the database.
+
+- Team object:
+Learning MEI and get familiar with the tech behind MEI.
