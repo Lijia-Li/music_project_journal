@@ -1,8 +1,10 @@
 Jan 29 - Minutes
+Project Name: ReChord
+Project Communication person: Bo (yinbogao@oxy.edu)
 
 Memo Data: 2018.01.29
-Members: Lijia, Bo, Jack, Nick, Client.
-Client Communication: clesko@oxy.edu
+Members: Lijia, Bo, Jack, Nick, Calvin(Client).
+Client: Calvin (clesko@oxy.edu)
 
 Memo Naming Rules:
 memo + date
@@ -37,8 +39,8 @@ Return the location of the exact matches from the input.
 2. MEI graphic input and text output
 3. MEI graphic input and MEI graphic output
 
-- Client object:
+- Client To-do:
 Contact the Chopin Institute regarding the database.
 
-- Team object:
+- Team To-do:
 Learning MEI and get familiar with the tech behind MEI.
