@@ -1,0 +1,19 @@
+Feb 02 - Minutes
+Project Name: ReChord
+Minutes by: Nick Bethune
+
+
+Met with Justin to talk about project
+-Discussed XPath as a possible method of parsing MEI files
+-Decided to implement search before outlining class diagram
+ -Reason: Search alg is minimum viable product right now, most important thing to get working
+  -Easy to work out classes after we have an understanding of how search works
+-Worked on getting everyone up to speed with GitKraken (Thanks Lijia!)
+-Discussed possible issue of XPath interaction with Chord Subfolders causing notes to not all have
+ the same parent node
+ -Nick will look into MEI formatting and possible ways to solve
+Moving Forward:
+-we'll meet monday morning before class
+-Lijia will work on algorithm, Nick/Jack will get fluent with Git
+-Everyone should get Python IDEs up and running and then work with XPath and XML docs using Python
+-
