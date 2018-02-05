@@ -1,0 +1,6 @@
+Nick Reflection (Feb 5 2018)
+
+ReChord seems like a challenging but rewarding project--there's a ton to start working through, namely MEI/XML formatting as
+well as the python packages which allow for the parsing of XML formats. Right now I think the most important thing is all of
+us getting familiar with these, and developing a skeleton for our search algorithm. 
+
