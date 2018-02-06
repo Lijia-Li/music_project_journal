@@ -1,0 +1,10 @@
+◦In your own words, briefly describe your project in a paragraph.
+⁃The goal of project ReChord is to create a searchable algorithm with user interface that allows musicians and scholars to search the use of specific music notations in a database. The database consists of many MEI files. 
+
+
+◦Think back to the first week of class, before your community partner meeting. What did you think your project was going to be? How has meeting with the community partner changed your understanding of the project (if it did)?
+⁃The project lands almost exactly at my expectation as Lijia and I started have conversation since last semester. The meeting reinforce our understanding of both short term as well as long term goals. 
+
+
+◦How do you feel about the project so far? Hopes, fears, concerns? Thoughts on how things might proceed?
+⁃Things are rolling out step by step. It’s a huge and challenging project, yet it is achievable with great attention to details and logistic of the foundation. Both the team and I are feeling confident about building the foundation of the MEI searching system.
