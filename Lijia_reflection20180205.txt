@@ -1,0 +1,8 @@
+Lijia Reflection (Feb 5, 2018)
+
+The ReChord project aims to search within given music .mei files with multiple filters for music history research purpose. The main job is to create a search engine that are able to parse through .mei file, an alternative of .xml file, to do searching. Besides, an GUI shall also be designed for non-technical researchers to access.  
+    
+I does not have much shocks for this project after meeting. Especailly I had previous experience with this project. But, I did not expect that we does not need to design database.  
+  
+
+I think at the moment, there are a lot of things to learn. Especially we are not familiar to .mei and xml parser at all. But, since the work so far is only learning, it's hard to push the project forward or start a scrum meeting. 

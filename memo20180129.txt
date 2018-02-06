@@ -1,10 +1,18 @@
 Jan 29 - Minutes
 Project Name: ReChord
+<<<<<<< HEAD
 Communication person: Bo (yinbogao@oxy.edu)
 
 Memo Data: 2018.01.29
 Members: Lijia, Bo, Jack, Nick, Calvin(Client).
 Client Communication: clesko@oxy.edu
+=======
+Project Communication person: Bo (yinbogao@oxy.edu)
+
+Memo Data: 2018.01.29
+Members: Lijia, Bo, Jack, Nick, Calvin(Client).
+Client: Calvin (clesko@oxy.edu)
+>>>>>>> 6adb27ee6ec8bbbe38f40200f19dc3f517ac5663
 
 Memo Naming Rules:
 memo + date
@@ -43,4 +51,8 @@ Return the location of the exact matches from the input.
 Contact the Chopin Institute regarding the database.
 
 - Team To-do:
+<<<<<<< HEAD
 Learning MEI and get familiar with the tech behind MEI.
+=======
+Learning MEI and get familiar with the tech behind MEI.
+>>>>>>> 6adb27ee6ec8bbbe38f40200f19dc3f517ac5663
