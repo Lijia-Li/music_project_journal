@@ -1,0 +1,38 @@
+User Story: 
+
+1, Academia 
+
+2, Composer checking for plagerism 
+
+3, Researcher whose trying to compare two versions of the same 
+articulation. 
+
+
+Questions: 
+	Inputs: 
+		What parameters will the users be searched by? 
+		What filters will the users be searched by? 
+		Are there any difference in brtween parameters and filters? 
+	Potential Outputs: 
+		1) the 
+
+
+1) Who will be using this program?
+	This program would be used by academic research professionals. There is a large scholarly community of music theorists and music historians who publish in peer-reviewed journals, much the same way that academics in the physical sciences do. These scholars choose highly narrow, specialized fields of study and use primary source documents as the basis and evidence for their persuasive writing. For example, the chair of Oxy's music department, David Kasunic, is a Chopin scholar who has published papers that claim Chopin's musical style, which is mostly written for solo piano, was strongly influenced by the opera and ballet that was so prevalent in 1840's Paris, where Chopin lived most of his adult life. This sort of scholarly work pieces together a narrative and colors the story of history from the letters, manuscripts, publications, newspapers, and other relics of the past. You can imagine that a single anecdote could paint a fanciful and inaccurate image of a person, so it's critical that this work is carried out in a rational, evidence-based process in order to preserve a realistic account of history.
+
+2) For what purpose would they use this program?
+	In encoding musical manuscripts and published editions to MEI format, the goal is to bring the advantages of digital tools to scholarly work. Presently, scholars have to rely on their own knowledge and intuition to make connections and comparisons between passages of music. To test their hypotheses, they have to acquire print copies (or at least digital scans) of the music in question and examine it carefully by sight. The point of encoding things in MEI format is to automate this search to some extent. 
+
+	Using digital search, it may be possible to make more extensive comparisons and find larger-scale trends or patterns in a composer's writing. While looking on OCVE for an example, I found this passage from Chopin's 4th Ballade. You'll notice that in the original manuscript, there are no pedal markings (usually indicated with "Ped" in cursive or print writing). You'll see in the Stichvorlage ("Printer's Copy") that the pedal markings are present. A hypothesis I could draw from this is that Chopin never included pedal markings in the drafting process for any of his works, including them only when he was preparing the manuscript for his publisher. It's pretty incredible that I can compare small passages of music across editions on OCVE, but it quickly becomes tedious to do any real comparative study. With a fully-tagged MEI database and search engine, I could test this hypothesis quickly by running a query for pedal markings across editions of all or part of Chopin's oeuvre. A generalized MEI search interface would ideally allow scholars to analyze music on small and large scales, within a single work and between the works of different composers, opening up a new data-driven method of music scholarship.
+
+3) What are they expecting the results to uncover?
+	Users are expecting the results to uncover information, trends, or patterns that would be too tedious to determine by hand or too large in scope for a single person to recognize. Though this is outside the scope of our project, I anticipate that with a sufficiently large, appropriately formatted MEI training set, machine learning algorithms could make huge leaps in our understanding of music theory and even learn to compose music in specific styles. For now, since visual note patterns/structures are highly contingent on human interpretation of human-made rules, we should focus on simple parameters like note names, expressive terms, tempo markings, pedal markings, dynamic markings, time signatures, key signatures, bar numbering, repeat signs, etc.
+
+4) What sort of technical background will these users have?
+	We can't assume these users will have a computer science or programming background, but we can expect them to be reasonably intelligent people who are competent users of computers. We can assume that anyone capable of understanding the utility of this digital scholarship tool would be willing to deal with a small learning curve in order to use it.
+
+Please let me know if this clarifies the domain of this project. I don't think I was able to convey the above in our meeting a few weeks ago, so I hope that it gives you a better sense of the reasons we're excited about this project from the music scholarship side of things.
+
+Todo: 
+	Creative Journal
+	Reorganzie journal folder
