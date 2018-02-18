@@ -1,0 +1,37 @@
+Expressive terms
+-tag = 
+
+Tempo Marking:
+-tag = 'tempo'
+-attributes:
+
+Articulation/(expressive terms?)
+-tag = 'artic'
+-attributes:
+
+Dynamic markings
+-tag = 'dynam'
+-attributes:
+
+Piano Fingerings:
+-Can't find anything
+-tag = 
+
+Pedal Marking
+-Can't find anything
+
+Hairpin (possibly subsection of dynamic markings):
+-tag = 'hairpin'
+
+Slur/Ligatures
+-tag = 'slur'
+
+Ornaments
+-tag = 'ornam'
+
+Notes
+-tag = 'note'
+
+Accidental
+-tag = 'accid'
+
