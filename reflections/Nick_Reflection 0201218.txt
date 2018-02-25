@@ -1,0 +1,19 @@
+
+What tasks did your team set out to complete this past sprint? What did you actually complete? If they are not the same, what are the sources of this discrepancy?
+--we sought to have a working note searching algorithm, which we do, and to have some sort of front end started, which we have. We wanted to have a better
+  layout for the overall program by now, but we didn't get that finished because we decided that in the short-term it would be more productive for us to 
+  finish the algorithm and get a functioning prototype rather than make large-scale decisions before we have a strong understanding of how our back-end works.
+
+What tasks will your team complete this coming spring? How did you decide on these priorities?
+--We will get an algorithm which can search multiple parameters and improve our existing program to work with objects rather than simply note type strings, which 
+  will allow us to match attributes of nodes. We decided this because it will give us a stronger foundation to work on and a better understanding of how to move 
+  forward when we understand the capabilities of our base algorithm.
+
+How accurate were your estimates of the community partner's priorities, based on your initial meeting and then the subsequent email followups?
+--Our estimations were inaccurate--we prioritized the note search as it was easiest but we didn't focus on the articulation and marking searches, which we now see
+  are very important to our community partner, and need to be added soon.
+
+Look back at your hopes and fears from the previous reflection. Have your hopes and fears changed? How? Why?
+--Now that we have a working algorithm, my hope has shifted from that to having one which works well and is malleable to change parameters and how the notes are
+  traversed, which is within the scope of the project but will take time. My fear about lacking direction is still there, because we still don't have a strong layout of 
+  where we want to go overall, but I'm less nervous now because I think we can tackle that as the project takes a more concrete form. 

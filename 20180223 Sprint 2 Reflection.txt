@@ -1,0 +1,31 @@
+Sprint review (Nick and Jack):
+good:
+--got search alg prototype
+--front end started
+--better idea of project
+could be better:
+--communication with calvin
+--refine search algorithm
+--more modular code
+
+Still needs to be done:
+--Flask integration
+--documentation
+--comment code
+--add accidentals and octaves to search
+
+What we need to know from community partner meeting:
+--What exact search would you use this for?
+--will the average user be able to create an MEI snippet?
+--What information does the user want about the search results?
+--do you have that site that displays pdfs of Chopin measures?
+
+Group Retrospective (just nick and jack here):
+--better communication than last sprint
+--still need a better breakdown of exactly what components we need to add
+--need to communicate with calvin more
+--confused about where to go, it'd benefit us to lay out a concrete plan
+--need to meet more consistently to work
+--need to assign specific tasks/modular portions of project to each person so everyone has
+  something to contribute and some direction
+  --we failed again to concretely decide areas for each person.
