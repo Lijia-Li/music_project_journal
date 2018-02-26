@@ -3,10 +3,12 @@ good:
 --got search alg prototype
 --front end started
 --better idea of project
+
 could be better:
 --communication with calvin
 --refine search algorithm
 --more modular code
+
 
 Still needs to be done:
 --Flask integration
@@ -15,6 +17,8 @@ Still needs to be done:
 --add accidentals and octaves to search
 
 What we need to know from community partner meeting:
+--Confirm priorities list
+--Confirm what he wants the endpoints to be (very start of input, exactly what they get out)
 --What exact search would you use this for?
 --will the average user be able to create an MEI snippet?
 --What information does the user want about the search results?
