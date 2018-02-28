@@ -1,11 +1,13 @@
 Expressive terms
--tag = 
+-tag = 'dir'
+
 
 Tempo Marking:
 -tag = 'tempo'
 -attributes:
 
-Articulation/(expressive terms?)
+
+Articulation
 -tag = 'artic'
 -attributes:
 

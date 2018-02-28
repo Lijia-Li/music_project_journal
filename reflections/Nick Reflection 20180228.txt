@@ -1,0 +1,16 @@
+Nick Bethune--2/28 reflection
+Reflect on the agile/scrum process. What are it's started goals? Based on your project so far, is that process achieving those goals for your team? Why/Why not?
+--The goals of the agile/scrum process are to create an environment where the team is its own leadership, meaning people hold each other accountable and make sure
+  that everyone is achieving their sprint goals. Its other goal is to make the project adaptable to new issues that rise up, and deploying modular code so adjustments
+  can be made. I think the process is helping our team, but we need to adhere more strictly to scrum practices so that we have a strong idea of what tasks each of us
+  are responsible for. 
+
+Reflect on your communication with your community partner. Do you think you are on the same page? Why/why not?
+--I think we had trouble communicating with Calvin but after our meeting yesterday I feel strongly that things are going to improve. I think we are now on the same page
+  about what we want the final product to look like and what deliverables to prioritize in the short term. For the future, I think maintaining an open line of communication
+  will benefit our team and ensure that we are continuing to move in the right direction.
+
+Look back at your hopes and fears from the previous reflection. Have your hopes and fears changed? How? Why?
+--My previous fears regarding communication have gotten a lot better--I feel like our team is more on the same page both with each other and with our community partner. My new
+  fears are just making sure our back end and front end work well together as we move forward. My hopes are the same as before, with the addition of getting a finished search
+  for expressive terms by the end of this sprint. 
