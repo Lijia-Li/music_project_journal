@@ -1,0 +1,16 @@
+Reflection: 3/7/18
+How did the user testing/feedback session go? What did you expect to learn? What did you actually learn?
+--The session went really well, I definitely got a more concrete idea of the necessary steps to move the project in the correct direction. I expected
+  to learn what a typical user wants from our program and what the priorities for development are, which we definitely got, but we also learned more
+  about how users want to be able to interact with our UI and what things are important to ensure our backend is utilized by those who will be using it.
+
+What, if anything, have you learned about interacting with real clients on real projects?
+--I definitely learned that clients, like all people, have a disconnect between the vision they have for a project and their ability to verbalize what
+  they want from it. Our meeting reinforced to me the necessity of an open line of communication and semi-consistent checkins with a client in order
+  to ensure that the project is pushed in the right direction.
+
+Look back at your hopes and fears from the previous reflection. Have your hopes and fears changed? How? Why?
+--My fears are the same, as we haven't finished integrating our front and back end yet, but with the addition of the fear of finding out that some parts of
+  our backend don't work correctly with the flask setup on our frontend. My hopes from last time have been realized, with us getting our
+  expressive term search, and my new hopes are to improve on the search algorithm as well as get our GUI at least partially integrated with the expressive
+  term and articulation methods so we can begin functional  testing of the project as a whole. 
