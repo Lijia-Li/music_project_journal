@@ -1,0 +1,25 @@
+3/9/2018--Sprint Review:
+Members Present: Jack and Nick
+
+good: 
+-cleaning up code
+-moving test cases
+-fixed a lot tech debt
+-refactored code
+-met regarding communication
+-
+
+Could be better:
+-make sure everyones at meetings
+-better communication about how other peoples' components work
+-more communication about progress towards goals
+
+Still need to be done:
+-full integration of front end with back end
+-fixes to note search method
+
+
+Group retrospective:
+-communication has improved but there are still problems with meeting attendence/being on time
+-communication between the front and back end groups needs work
+-scrums don't feel useful
