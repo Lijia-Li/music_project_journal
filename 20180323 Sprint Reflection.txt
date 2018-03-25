@@ -1,0 +1,12 @@
+Sprint Review 20182303--All members present
+
+What tasks did your team set out to complete this past sprint? What did you actually complete? If they are not the same, what are the sources of this discrepancy?
+--We got the front and back end mostly integrated! This was our main goal for this sprint, as it was shorter than most sprints.
+--We finished documenting code, got the back end a bit more refactored, and finished our test cases
+--These are all of the things we wanted to complete
+
+What tasks will your team complete this coming sprint? How did you decide on these priorities?
+--Finish Expressive Term Search & dynamic markings integration to frontend
+--frontend testcases
+--LINT the files so they pass travis tests
+--Clean up link between frontend and backend
