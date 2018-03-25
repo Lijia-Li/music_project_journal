@@ -1,26 +1,20 @@
 Expressive terms
 -tag = 'dir'
 
-
 Tempo Marking:
 -tag = 'tempo'
--attributes:
-
 
 Articulation
 -tag = 'artic'
--attributes:
 
 Dynamic markings
 -tag = 'dynam'
--attributes:
 
 Piano Fingerings:
--Can't find anything
--tag = 
+-tag = 'fing'; 'fingGrp'; 'fingerprint'
 
 Pedal Marking
--Can't find anything
+-tag = 'pedal'
 
 Hairpin (possibly subsection of dynamic markings):
 -tag = 'hairpin'
@@ -36,4 +30,5 @@ Notes
 
 Accidental
 -tag = 'accid'
+
 
