@@ -1,0 +1,14 @@
+Calvin Meeting Notes 3/28/18
+
+-Demoed front end
+-Calvin was confused whether term search required a snippet pasted in other tab
+-tempo marking tab:
+--radio button next to each type of note (eighth, quarter, eighth with dot, etc) and a box to put in tempo (ex. 72)
+--some have metronome marking, others have just a word (ex. allegro)
+
+-interested in the dictionary which includes abbreviations for a word s.t they all get returned if you search even just the abbrev
+-we requested MEI file with piano fingerings
+-take slur, ornamental, notes, accidental out of text search
+-prioritize expressive term, tempo marking, dynamic markings
+-need to talk about our database of MEI files and copyright issues
+-potentially adding this/giving access to the official MEI initiative
