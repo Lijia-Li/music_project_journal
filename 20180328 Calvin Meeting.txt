@@ -12,3 +12,9 @@ Calvin Meeting Notes 3/28/18
 -prioritize expressive term, tempo marking, dynamic markings
 -need to talk about our database of MEI files and copyright issues
 -potentially adding this/giving access to the official MEI initiative
+-still hoping to make it possible to link to pdf
+
+by end of semester:
+--make sure search box works
+--have name of piece in results page
+--finish tempo marking section
