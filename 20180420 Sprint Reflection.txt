@@ -1,0 +1,24 @@
+Sprint Review 4/20/18
+
+Good:
+  -Got a lot of linting done
+  -Front end is coming together--folder search pretty much done!
+  -Got Dictionary search functional
+
+Bad:
+  -Didn't have a working program for end of sprint
+  -Still have bugs to take care of
+  -Could have gotten futher on documentation
+
+What we wnat done by end of next sprint:
+ -Everything!
+ -Documentation
+   -Finish Developer Doc (Bo/Jack)
+   -Finish Design Doc (nick)
+   -Finish User Doc (Lijia)
+ -Meet with Calvin
+ -Code
+   -100% finish linting
+   -Get front end debugged
+   -Polish everything
+   -Error Handling
