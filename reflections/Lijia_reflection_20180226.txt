@@ -1,0 +1,43 @@
+Reflect on the following questions and commit it to your development journal:
+
+Reflect on the agile/scrum process. What are it's started goals? Based on your project so far, is that process achieving those goals for your team? Why/Why not?
+	In the beginning of this scrum, on the backend, we aim to tackle searching algorithm basic functions by using xpath. I would say that we are definitly working toward that goal and in fact we have a functional searching algorithm. So I would say we did a good job. On the front end, we now have a static page and a simple GUI, which is not bad at all.
+
+Reflect on your communication with your community partner. Do you think you are on the same page? Why/why not?
+	I think there are definitly room for our group to improve. The communication was rather opaque seeing as I am not sure the functions that they work on or why they work on them on the first place. I had a doc which list out all the communication problem that we are having and I will attached it below.  
+		- Meeting
+		  - No shows
+		    - I apologize, my body is not cooperating lately 
+		  - Hard to find meeting time
+		  - Generally inefficient:
+		    - Not come prepared
+		    - Do not have a decent agenda: so that everybody is not on the same page of what we are discussing and what can they contribute
+		    - Agreed things were not substantiated later
+		- Tasks Assignment
+		  - I think we are a powerful group; but we are not having the same amount work working on and that decrease my urge to work on stuff. I have the feeling of since he is not working why should I spend so much time; 
+		  - also as a female, although you might disagree, I do feel like 
+		    - my words are sometime ignored 
+		      - #resolution: check slack more often
+		      - #resolution: please reply
+		      - #resolution: even when talking about the same issue, other group member are more heard than I was
+		    - I act like a mom figure  *hell no!!!!!!
+		      - clean code (which I apologize)
+		      - gitkraken stuff (which is reasonable, b/c I am more experienced on it) 
+		      - other errand that people are often forgetting and thus I would ask several time to make sure people are working on it. 
+		        - e.g. email to Calvin about meeting time/user experience
+		      - #resolution please be more accountable on the thing that you agreed on; if you can not do it, don’t agree. And constant keep updating with each other. 
+		    - My contribution to the project is not acknowledged.  
+		      - #resolution:We should appreciate the contributions of others 
+		- Trello: 
+		  - Generally not organzized 
+		    - partly because we are not on the same page on the project
+		  - #resolution: Time Estimate & Due Dates & Member Assignment
+
+
+Look back at your hopes and fears from the previous reflection. Have your hopes and fears changed? How? Why?
+	I do think that my fear is still the same in that I am worried about the inefficient comminication and it caused me so much energy that I don't even want to think about this project for most of my time. The coding part is definitly managable by such a powerful group, it's just we need time to get familiar with our role and not competing with eachother when working on things. I hope that in the future, we can have better commincation. 
+	I would also hope to have more bigpicture view seeing as there is a lack of user experience that I am not sure where we are heading. This can be resolved by a comprehensive meeting. 
+
+
+
+
