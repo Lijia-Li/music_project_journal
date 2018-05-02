@@ -1,0 +1,17 @@
+Jack Neary Reflection
+
+Our project is to create a search engine that will find matches in music notation between
+	MEI files. We will be allowing the end user to be able to pick what sort of criteria
+	would like to search by and allow them to find the closest matches to the
+	submitted xml file.
+
+I was hoping to get this project and was so excited when I did. The meeting with the 
+	community partner really just firmed up the ideas that I had about the project
+	and what it would entail. The UI that he was hoping to achieve in the end was
+	the only real surprise along with the file type that we would need to use (MEI
+	instead of just regular XML)
+
+I am excited to get going on the project! I am hoping to get a comprehensive understanding
+	of what our program will look like and learn Python along the way! This will be 
+	a very fun project. I am hoping to get in on the coding soon, but we are currently
+	limiting it to a 2-person job.
